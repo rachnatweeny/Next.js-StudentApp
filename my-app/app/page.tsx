@@ -99,10 +99,10 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer> */}
-       <h1>Hello World</h1>
-       <Link href="/studentsName">Students Name</Link>
-       <Link href="/studentsId">Students ID</Link>
-       <Link href="/feedbackId">Students ID</Link>
+       
+      <Link href="/students">Hello World</Link>
+       
+       
        {/* <Button /> */}
     </div>
   );
