@@ -100,7 +100,7 @@ export default function Home() {
         </a>
       </footer> */}
        
-      <Link href="/students">Hello World</Link>
+      <Link href="/students">Students</Link>
        
        
        {/* <Button /> */}
