@@ -11,7 +11,7 @@ export default function Docs({ params }: { params: { slug: string[] } }) {
     return (
         <div>
             <h1> Welcome to view optional catch-all-segment route</h1>
-            {/* <p>Slug: {params.slug.join('/')}</p> */}
+           
         </div>
     );
 }
